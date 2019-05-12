@@ -56,5 +56,5 @@ public class PersonTest {
         marcin.determineIfAdult();
         assert marcin.isAdult() == false;
     }
-
+//
 }
